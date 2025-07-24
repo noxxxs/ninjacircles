@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fc5ae377c5177cd468a14b17e3121efd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272359
+  packageName: MicroAudio - Audio manager
+  packageVersion: 1.3.9
+  assetPath: Assets/Microlight/MicroAudio/Demo/MusicGroup.asset
+  uploadId: 735828

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e6bb2f2f991a22b44b0a0cb50e811cd3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272359
+  packageName: MicroAudio - Audio manager
+  packageVersion: 1.3.9
+  assetPath: Assets/Microlight/MicroAudio/Scripts/Music/MicroMusic.cs
+  uploadId: 735828

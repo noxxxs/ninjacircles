@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 424a815e9094a9e42a349c6a63288719, type: 3}
+  m_Name: MultiplyGroup
+  m_EditorClassIdentifier: 
+  clipList:
+  - {fileID: 8300000, guid: fe54ae45b76653a40b8b343584015954, type: 3}
